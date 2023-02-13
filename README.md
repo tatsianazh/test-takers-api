@@ -1,4 +1,4 @@
-##Description
+## Description
 This application allows you to retrieve a list of test-takers via API call,
 using `csv` and `json` files as a data source.
 
@@ -9,11 +9,11 @@ using `csv` and `json` files as a data source.
 
 ## Installation notes
 
-###Prerequisites:
+### Prerequisites:
 - php version - `8.0.2`
 - docker
 
-###For local installation, follow these steps
+### For local installation, follow these steps
 1. clone the project running the following command in terminsl `git clone https://github.com/tatsianazh/test-takers-api.git`
 2. Move to the project directory `cd test-takers-api`
 3. clone `.env.example` file and rename it to `.env`
